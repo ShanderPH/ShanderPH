@@ -2,15 +2,12 @@
 
 <h1>
     <a href="https://github.com/ShanderPH">
-     <img align="center" alt="Logo Elidiana Andrade" width="50px" src="https://github.com/ShanderPH/ShanderPH/assets/143129391/216c828d-d3a7-4fb8-b34a-8a8859f5a2b6"></a>
+     <img align="center" alt="Logo Shander Penha" width="50px" src="https://github.com/ShanderPH/ShanderPH/assets/143129391/216c828d-d3a7-4fb8-b34a-8a8859f5a2b6"></a>
     <span>Shander Penha</span>
 </h1>
 
 <p align="justify">Undergraduate student in Software Engineering at Wyden Educational, I am a professional with solid experience in the field of information technology, where I worked with levels 1, 2, and 3 support, managing databases and active directory as highlights. I have knowledge in system development with emphasis on HTML, CSS, JavaScript, Angular, and Python. I have experience and excellent performance in team leadership roles.</p>
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
--->
+
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#808080&color:FFF)](https://www.linkedin.com/in/shanderphellip/)
