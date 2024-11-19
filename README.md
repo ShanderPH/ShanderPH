@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://github.com/ShanderPH">
-     <img align="center" alt="Logo Shander Penha" width="50px" src="https://github.com/ShanderPH/ShanderPH/assets/143129391/216c828d-d3a7-4fb8-b34a-8a8859f5a2b6"></a>
+     <img align="center" alt="Logo Shander Penha" width="50px" src="[https://github.com/ShanderPH/ShanderPH/assets/143129391/216c828d-d3a7-4fb8-b34a-8a8859f5a2b6](https://github.com/user-attachments/assets/f100cdcf-d97f-4e06-9b70-8f8571ee32c1)"></a>
     <span>Shander Penha</span>
 </h1>
 
@@ -29,3 +29,4 @@
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
 
 </details>
+
