@@ -1,10 +1,9 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/ShanderPH/ShanderPH/assets/143129391/d126cd0e-a9f0-43ee-9966-2df2ade64b24">
-
 <h1>
     <a href="https://github.com/ShanderPH">
-     <img align="center" width="50px" src="https://github.com/user-attachments/assets/f100cdcf-d97f-4e06-9b70-8f8571ee32c1"></a>
+    <img align="center" width="50px" src="https://github.com/user-attachments/assets/f100cdcf-d97f-4e06-9b70-8f8571ee32c1"></a>
     <span>Shander Penha</span>
 </h1>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/ShanderPH/ShanderPH/assets/143129391/d126cd0e-a9f0-43ee-9966-2df2ade64b24">
 
 <p align="justify">Undergraduate student in Software Engineering at Wyden Educational, I am a professional with solid experience in the field of information technology, where I worked with levels 1, 2, and 3 support, managing databases and active directory as highlights. I have knowledge in system development with emphasis on HTML, CSS, JavaScript, Angular, and Python. I have experience and excellent performance in team leadership roles.</p>
 
